@@ -1,4 +1,6 @@
+## Hi, this is my current progress on a few of my coding endeavors! 
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/685ec10f8380355be587efa3?variant=dark&roadmaps=cyber-security%2Cfull-stack%2Cpython%2Cbackend%3Fr%3Dbackend-beginner" alt="roadmap.sh"/></a>
 
 <!--
 **profvssa/profvssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
